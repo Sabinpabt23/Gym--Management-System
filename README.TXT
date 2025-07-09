@@ -1,7 +1,5 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
+The Gym Management System is a comprehensive Java application designed to streamline the operations of a fitness center. This system provides tools for managing gym memberships, tracking attendance, processing payments, and even includes an equipment store with shopping cart functionality.
 ------------------------------------------------------------------------
 
 PROJECT TITLE: Gym-Management-System
